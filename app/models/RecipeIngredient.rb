@@ -15,3 +15,5 @@ class RecipeIngredient
     end
 
 end
+
+
